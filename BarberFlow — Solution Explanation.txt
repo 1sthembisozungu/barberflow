@@ -1,0 +1,26 @@
+BarberFlow — Solution Explanation
+
+BarberFlow is a receptionist-focused digital management system designed to replace manual barber-shop administration with a centralized workflow.
+The receptionist is the primary user of the system. After logging in, the receptionist can manage the shop's day-to-day operations from one dashboard.
+The system provides several core functions:
+
+Customer management:
+The receptionist can register customers by recording their name and phone number. BarberFlow automatically generates a unique customer number, making customers easier to identify and retrieve.
+
+Barber management:
+The receptionist can register and manage the barbers working at the shop.
+
+Appointment management:
+The receptionist can create appointments by selecting the customer, service, barber and appointment time. Appointments are stored digitally and can be viewed from the dashboard.
+
+Queue management:
+When a customer arrives, the receptionist can check them in. Their appointment then enters the digital queue. The appointment progresses through different statuses as the service starts and is completed.
+
+Service records:
+When a service is completed, BarberFlow records the customer, barber, service and price. This creates a digital history instead of relying on paper records.
+
+Dashboard and business information:
+The dashboard provides an overview of the day's customers, appointments, completed services and revenue, giving the receptionist immediate visibility into the shop's operations.
+
+The overall workflow is:
+Register customer → Book appointment → Check in → Queue → Start service → Complete service → Record service → Update business statistics.

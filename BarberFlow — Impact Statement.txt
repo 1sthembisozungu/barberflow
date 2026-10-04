@@ -1,0 +1,25 @@
+BarberFlow — Impact Statement
+
+BarberFlow can improve the efficiency of a barber shop by reducing the amount of manual administration required from the receptionist.
+By centralizing customer information, appointments, barber information and service records, the receptionist spends less time searching through paper records and manually organizing information. This can reduce administrative delays and make information easier to access.
+
+The system also reduces the likelihood of errors associated with handwritten or scattered records. Customer information, appointments and service records are stored consistently in a structured digital database.
+
+BarberFlow can improve the customer experience by helping the receptionist quickly locate customer information, manage appointments and maintain a clear queue. This allows the receptionist to focus more on serving customers rather than managing paperwork.
+The dashboard also gives the business better visibility into its daily activity by showing the number of customers registered, appointments, completed services and revenue.
+
+Expected impact
+Time saved:
+Less time spent searching through paper records and manually organizing appointments and queues.
+
+Errors reduced:
+Structured digital records reduce problems caused by illegible, misplaced or inconsistent handwritten information.
+
+Administrative efficiency:
+Customer, barber, appointment and service information is managed from one system instead of multiple paper records.
+
+Customer experience:
+A clearer appointment and queue process allows the receptionist to serve customers more efficiently.
+
+Business visibility:
+The dashboard gives the shop an immediate view of its daily operations and revenue.

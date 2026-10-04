@@ -1,0 +1,9 @@
+BarberFlow — Problem Statement
+
+Many small barber shops still rely on manual processes to manage their daily operations. Customer information, appointments, barber availability, service records and queues may be recorded using notebooks, paper records or informal communication.
+
+For the receptionist, this creates several problems. Finding an existing customer's information can take time, appointments can be difficult to keep organized, queues can become confusing during busy periods, and service records can be difficult to maintain accurately. Manual record-keeping also increases the possibility of human error, duplicated information and misplaced records.
+
+These problems affect both the barber shop and its customers. Receptionists spend more time on administration instead of serving customers, while customers may experience longer waiting times or confusion around appointments.
+
+BarberFlow was created to address this problem by digitizing the receptionist's daily workflow and bringing customer, barber, appointment, queue and service information into one centralized system.

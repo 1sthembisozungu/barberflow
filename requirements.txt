@@ -1,0 +1,7 @@
+// note about files
+
+models → describe  data
+routes → receive requests
+utils → reusable business logic
+config → configuration
+extensions → database/application extensions
